@@ -38,3 +38,13 @@ A entrada será o número de páginas de um determinado livro
 
 ### Saída
 A saída deverá ser quanto tempo ela vai levar para ler esse livro
+
+## [Desafio 4 - Lojinha de Doces 🍭](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20b%C3%A1sicos/LojinhaDoces.java)
+### Descrição:
+Uma lojinha de doces tem muitos clientes por ser ao lado de uma escola. Para aumentar as vendas o dono resolveu colocar uma máquina onde os clientes, principalmente as crianças que estão muito acostumadas com a tecnologia, poderiam colocar suas moedas e receber dois doces aleatórios. Cada 1 real irá render 2 doces aleatórios.
+
+### Entrada
+A entrada será a quantidade de dinheiro que cada cliente, um por vez, possui.
+
+### Saída
+A saída deverá ser a quantidade de doces que cada cliente conseguiu obter. (sem as aspas)
