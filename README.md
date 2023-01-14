@@ -21,7 +21,7 @@ A saída deve ser o valor que o sobrinho terá ao final dos meses. (sem as aspas
 
 
 
-## [Desafio 2 -Download de Pacotes 📦](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20b%C3%A1sicos/DesafioDownloadPacotes.java)
+## [Desafio 2 - Download de Pacotes 📦](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20b%C3%A1sicos/DesafioDownloadPacotes.java)
 ### Descrição:
 Você foi contratado para criar um gerenciador de pacotes. Porém, o que restou para você fazer foi o contador de porcentagem de download dos pacotes. Mas como o espaço para essa informação ficou pequeno, a empresa optou por fazer uma escala de 10 – 1. Então a escala será 1 = 10%, 2 = 20%, 3 = 30% e etc.
 Para cada 10% de download, o programa deve printar, em sequência e sem espaços, uma barra “/”.
@@ -31,3 +31,13 @@ A entrada será um número que representará a porcentagem
 
 ### Saída
 A saída serão as barras sem espaços entre elas. 
+
+## [Desafio 3 - Leitura da Gertrudes 📚](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20b%C3%A1sicos/DesafioLeituraGertrudes.java)
+### Descrição:
+Sua tia Gertrudes é uma leitora assídua. E ela gostaria de ter um aplicativo que dissesse para ela, de acordo com o número de páginas de um livro, quanto tempo ela levaria para ler lendo apenas 3 páginas por dia. Como você está aprendendo Java, você se disponibilizou para ajudá-la com esse desenvolvimento.
+
+### Entrada
+A entrada será o número de páginas de um determinado livro
+
+### Saída
+A saída deverá ser quanto tempo ela vai levar para ler esse livro
