@@ -3,7 +3,7 @@
 Repositório criado para documentar minhas resoluções dos desafios propostos durante o bootcamp [Orange Tech+](https://web.dio.me/track/orange-tech-backend), da [DIO](https://www.dio.me/) e do [Banco Inter](https://www.bancointer.com.br/).
 
 
-<h1 align="center"<br /> Desafios Básicos ✔</h1>
+<h1 align="center"<br /> Desafios Básicos </h1>
 
 ## [Desafio 1 - Mesada do Sobrinho 💸](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20b%C3%A1sicos/DesafioMesadaSobrinho.java)
 ### Descrição:
@@ -48,3 +48,18 @@ A entrada será a quantidade de dinheiro que cada cliente, um por vez, possui.
 
 ### Saída
 A saída deverá ser a quantidade de doces que cada cliente conseguiu obter. (sem as aspas)
+
+## [Desafio 5 - Indústria da Multa 🚗](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20b%C3%A1sicos/IndustriaMulta.java)
+### Descrição:
+A prefeitura de uma cidade A instalou uma câmera para verificar quem estava acima da velocidade permitida na rodovia da entrada da cidade. Porém, ela é uma cidade extremamente movimentada e a prefeitura não deu conta de enviar as multas necessárias para quem ultrapassasse a velocidade permitida de 60km/h.
+
+O seu papel será o de criar um programa que verifique os dados recebidos da câmera e envie uma mensagem dizendo se o motorista será multado ou não.
+
+## Entrada
+A entrada vai ser a velocidade do motorista.
+
+## Saída
+A saída será uma mensagem no console dizendo se o motorista foi multado ou não. (sem as aspas)
+
+<h1 align="center"<br /> Desafios Intermediários </h1>
+
