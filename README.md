@@ -3,10 +3,7 @@
 Repositório criado para documentar minhas resoluções dos desafios propostos durante o bootcamp [Orange Tech+](https://web.dio.me/track/orange-tech-backend), da [DIO](https://www.dio.me/) e do [Banco Inter](https://www.bancointer.com.br/).
 
 
-
-<h1 align="center"<br /> Desafios ✔ </h1>
-Os desafios propostos no bootcamp foram agrupados em dois níveis, os básicos e os intermediários, sendo cinco de cada nível.
--
+<h1 align="center"<br /> Desafios Básicos ✔</h1>
 
 ## [Desafio 1 - Mesada do Sobrinho 💸](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20b%C3%A1sicos/DesafioMesadaSobrinho.java)
 ### Descrição:
