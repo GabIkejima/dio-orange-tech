@@ -63,7 +63,7 @@ A saída será uma mensagem no console dizendo se o motorista foi multado ou nã
 
 <h1 align="center"<br /> Desafios Intermediários </h1>
 
-## [Desafio 6 - Salvando Música](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20Intermedi%C3%A1rios/SalvandoM%C3%BAsicas.java)
+## [Desafio 1 - Salvando Música 🎵](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20Intermedi%C3%A1rios/SalvandoM%C3%BAsicas.java)
 ### Descrição:
 Sua irmã está com o computador muito lento e pediu para você formata-lo. Mas ela gostaria muito de que todas as músicas dela fossem salvas e não deletadas com o resto dos arquivos durante a formatação. Todas as músicas estão no formato .mp3
 Crie um programa que cada arquivo com esse formato não seja deletado.
@@ -73,3 +73,17 @@ A entrada será uma String com o nome da música e seu formato.
 
 ### Saída
 A saída deve ser se o arquivo será salvo ou não.
+
+
+## [Desafio 2 - Pontos na Carteira 🚙](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20Intermedi%C3%A1rios/PontosCarteira.java)
+### Descrição:
+A prefeitura da cidade B, inspirada por uma cidade A, decidiu implementar um sistema de câmeras que iria verificar se os carros estão acima de 80km/h. Porém, eles queriam também anotar a placa dos carros no banco de dados para que, a partir de 3 multas, os motoristas perdessem pontos diretamente na carteira de habilitação. Para isso, contrataram você para realizar esse programa, logo que você fez um trabalho tão bom para a cidade A.
+
+Lembrando que toda vez que um carro é pego pela câmera e está acima da velocidade permitida automaticamente já é contabilizado uma multa para ele.
+
+### Entrada
+A entrada será a velocidade que o veículo está e quantas multas ele já recebeu. Se ele estiver acima da velocidade, deve ser somado mais uma multa.
+
+### Saida
+A saída deverá ser quantas multas o motorista já tem e se ele irá receber pontuação na carteira de habilitação.
+
