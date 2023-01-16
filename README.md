@@ -55,11 +55,21 @@ A prefeitura de uma cidade A instalou uma câmera para verificar quem estava aci
 
 O seu papel será o de criar um programa que verifique os dados recebidos da câmera e envie uma mensagem dizendo se o motorista será multado ou não.
 
-## Entrada
+### Entrada
 A entrada vai ser a velocidade do motorista.
 
-## Saída
+### Saída
 A saída será uma mensagem no console dizendo se o motorista foi multado ou não. (sem as aspas)
 
 <h1 align="center"<br /> Desafios Intermediários </h1>
 
+## [Desafio 6 - Salvando Música](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20Intermedi%C3%A1rios/SalvandoM%C3%BAsicas.java)
+### Descrição:
+Sua irmã está com o computador muito lento e pediu para você formata-lo. Mas ela gostaria muito de que todas as músicas dela fossem salvas e não deletadas com o resto dos arquivos durante a formatação. Todas as músicas estão no formato .mp3
+Crie um programa que cada arquivo com esse formato não seja deletado.
+
+### Entrada
+A entrada será uma String com o nome da música e seu formato.
+
+### Saída
+A saída deve ser se o arquivo será salvo ou não.
