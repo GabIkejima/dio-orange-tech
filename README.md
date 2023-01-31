@@ -126,3 +126,7 @@ A entrada será o tamanho da fila que aguardava para ver o show.
 
 ### Saída
 A saída deve ser o número de pessoas que foram colocadas no camarote. (sem as aspas)
+
+# Extra : [Desafio POO (Programação orientada a objetos)](https://github.com/GabIkejima/dio-orange-tech/tree/main/desafio-dio-POO/desafio-dio-POO/src)
+## Descrição:
+Projeto criado para realizar através da programação orientada a objetos em Java no compilador IntelliJ, um sistema - de forma simplificada - do funcionamento de um bootcamp, computando o progresso do dev, os cursos e a porcentagem de progressão que o mesmo realizou.
