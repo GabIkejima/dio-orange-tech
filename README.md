@@ -84,6 +84,17 @@ Lembrando que toda vez que um carro é pego pela câmera e está acima da veloci
 ### Entrada
 A entrada será a velocidade que o veículo está e quantas multas ele já recebeu. Se ele estiver acima da velocidade, deve ser somado mais uma multa.
 
-### Saida
+### Saída
 A saída deverá ser quantas multas o motorista já tem e se ele irá receber pontuação na carteira de habilitação.
 
+
+
+## [Desafio 3 - Imóveis Disponíveis 🏡](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20Intermedi%C3%A1rios/Im%C3%B3veisDispon%C3%ADveis.java)
+### Descrição:
+O seu amigo quer verificar quais os imóveis estão disponíveis em uma certa corretora na região onde ele mora. A corretora disponibilizou uma API para ele, mas como ele não entende nada de programação, pediu a sua ajuda. Para deixar tudo bonitinho, você resolveu criar um aplicativo para seu querido amigo, mas quando foi olhar a API retornava os dados de uma forma esquisita, separado por barras. Ajude seu amigo deixando a informação mais amigável possível.
+
+### Entrada
+A entrada será a classificação do imóvel, o valor do aluguel dele e se ele está disponível no momento.
+
+### Saída
+A saída deverá ser as informações da entrada, porém de uma forma mais amigável. (sem as aspas)
