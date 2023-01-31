@@ -89,7 +89,7 @@ A saída deverá ser quantas multas o motorista já tem e se ele irá receber po
 
 
 
-## [Desafio 3 - Imóveis Disponíveis](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20Intermedi%C3%A1rios/Im%C3%B3veisDispon%C3%ADveis.java)
+## [Desafio 3 - Imóveis Disponíveis 🏡](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20Intermedi%C3%A1rios/Im%C3%B3veisDispon%C3%ADveis.java)
 ### Descrição:
 O seu amigo quer verificar quais os imóveis estão disponíveis em uma certa corretora na região onde ele mora. A corretora disponibilizou uma API para ele, mas como ele não entende nada de programação, pediu a sua ajuda. Para deixar tudo bonitinho, você resolveu criar um aplicativo para seu querido amigo, mas quando foi olhar a API retornava os dados de uma forma esquisita, separado por barras. Ajude seu amigo deixando a informação mais amigável possível.
 
