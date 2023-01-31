@@ -117,3 +117,12 @@ A entrada serão os ingredientes que compõem o lanche.
 ### Saída
 A saída deverá ser o lanche montado com as palavras que definem os ingredientes.
 
+## [Desafio 5 - Camarote do Blue Cold Ice Cubes 🍸](https://github.com/GabIkejima/dio-orange-tech/blob/main/Desafios%20Intermedi%C3%A1rios/CamaroteBlueCold.java)
+### Descrição:
+No show da famosa banda Blue Cold Ice Cubes o vocalista, Antônio Queda, escolheu todas as pessoas que estavam na posição impar da fila para entrarem no camarote. Ele fez isso em diversos shows e as pessoas foram a loucura para competirem por essas posições. Você resolveu criar um programa para saber, de acordo com o número de pessoas na fila, quantas entrariam no camarote.
+
+### Entrada
+A entrada será o tamanho da fila que aguardava para ver o show.
+
+### Saída
+A saída deve ser o número de pessoas que foram colocadas no camarote. (sem as aspas)
